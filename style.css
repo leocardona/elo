@@ -3,7 +3,7 @@ div {
 }
 
 #header {
-	z-index: 1;
+	z-index: 0;
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
@@ -67,7 +67,7 @@ a:hover {
 	float: right;
 	margin-top: 50px;
 	width: 88%;
-	height: 400px;
+	height: 800px;
 	background-color: #F4EBC3;
 	margin-bottom: 10px;
 }
